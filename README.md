@@ -1,2 +1,1 @@
-# CodeSnap-ai
-Convert your code into beautiful, shareable images instantly.
+CodeSnap is a modern and intuitive web application designed to help developers convert their code into beautiful, shareable images in seconds. With a clean and minimal interface, it allows users to write, preview, and format code effortlessly while maintaining a visually appealing layout. Whether you're sharing snippets on social media, documenting your work, or showcasing projects, CodeSnap makes your code look professional and easy to read. Built with simplicity and usability in mind, it focuses on delivering a smooth and distraction-free experience for developers of all levels.
